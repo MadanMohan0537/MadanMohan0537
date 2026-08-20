@@ -112,17 +112,6 @@ Automated review intelligence pipeline for extracting sentiment, patterns, and u
 | [Outage Watch](https://github.com/MadanMohan0537/Outage-Watch) | Monitoring and operational awareness tooling |
 | [MCP Review Intelligence](https://github.com/MadanMohan0537/mcp-review-intelligence) | MCP-based review analysis experiments |
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MadanMohan0537&show_icons=true&hide_border=true&theme=transparent" alt="Madan's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadanMohan0537&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=MadanMohan0537&theme=transparent&hide_border=true" alt="GitHub streak" />
-
-</div>
-
 ## 💡 How I Work
 
 I usually start by understanding the problem, deciding what is most important, and organizing the work into clear steps. As I build, I check whether the result is useful and make changes based on what I learn.
