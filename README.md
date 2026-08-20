@@ -5,7 +5,6 @@
 ### I build practical AI products, intelligent workflows, and tools that turn ideas into working systems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-MadanMohanCh-181717?style=for-the-badge&logo=github)](https://github.com/MadanMohanCh)
-[![Email](https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 </div>
 
@@ -35,13 +34,13 @@ Problem → Scope → Build → Evaluate → Iterate → Ship
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [TikTok Shop Risk Intelligence](https://github.com/MadanMohan0537/TikTok-Shop-Risk-Intelligence)
+### 🛡️ [TikTok Shop Risk Intelligence](https://github.com/MadanMohanCh/TikTok-Shop-Risk-Intelligence)
 Marketplace risk intelligence project focused on surfacing suspicious patterns and turning risk signals into actionable insights.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧭 [AI Job Copilot](https://github.com/MadanMohan0537/AI-Job-Copilot)
+### 🧭 [AI Job Copilot](https://github.com/MadanMohanCh/AI-Job-Copilot)
 AI-assisted workflow for analyzing opportunities, matching resumes, and organizing the job application process.
 
 </td>
@@ -49,13 +48,13 @@ AI-assisted workflow for analyzing opportunities, matching resumes, and organizi
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [ForgeMind](https://github.com/MadanMohan0537/ForgeMind)
+### 🧠 [ForgeMind](https://github.com/MadanMohanCh/ForgeMind)
 An AI-focused project exploring intelligent workflows and practical agent-driven experiences.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 [AI Product Experimentation Platform](https://github.com/MadanMohan0537/ai-product-experimentation-platform)
+### 🧪 [AI Product Experimentation Platform](https://github.com/MadanMohanCh/ai-product-experimentation-platform)
 A product experimentation workflow covering the path from idea and launch through AI-assisted analysis and recommendation.
 
 </td>
@@ -63,13 +62,13 @@ A product experimentation workflow covering the path from idea and launch throug
 <tr>
 <td width="50%" valign="top">
 
-### 📝 [Briefly PRD AI](https://github.com/MadanMohan0537/briefly-prd-ai)
+### 📝 [Briefly PRD AI](https://github.com/MadanMohanCh/briefly-prd-ai)
 A product requirements workflow that helps transform an early product idea into a structured PRD.
 
 </td>
 <td width="50%" valign="top">
 
-### 🍽️ [Local Dining Intelligence](https://github.com/MadanMohan0537/local-dining-intelligence)
+### 🍽️ [Local Dining Intelligence](https://github.com/MadanMohanCh/local-dining-intelligence)
 Automated review intelligence pipeline for extracting sentiment, patterns, and useful signals from unstructured restaurant reviews.
 
 </td>
@@ -106,21 +105,21 @@ Automated review intelligence pipeline for extracting sentiment, patterns, and u
 
 | Project | What it explores |
 |---|---|
-| [AI Project Manager Assistant](https://github.com/MadanMohan0537/ai-project-manager-assistant) | Turning project ideas into structured, risk-aware plans with AI workflows |
-| [E-Commerce Fraud Detection](https://github.com/MadanMohan0537/E-Commerce-Fraud-Detection) | Explainable transaction risk signals and fraud scoring |
-| [Starter AI Agents](https://github.com/MadanMohan0537/starter-ai-agents) | Small, runnable agent patterns for learning and experimentation |
-| [Resume Matcher](https://github.com/MadanMohan0537/Resume-Matcher) | Resume and job-description matching workflows |
-| [Outage Watch](https://github.com/MadanMohan0537/Outage-Watch) | Monitoring and operational awareness tooling |
-| [MCP Review Intelligence](https://github.com/MadanMohan0537/mcp-review-intelligence) | MCP-based review analysis experiments |
+| [AI Project Manager Assistant](https://github.com/MadanMohanCh/ai-project-manager-assistant) | Turning project ideas into structured, risk-aware plans with AI workflows |
+| [E-Commerce Fraud Detection](https://github.com/MadanMohanCh/E-Commerce-Fraud-Detection) | Explainable transaction risk signals and fraud scoring |
+| [Starter AI Agents](https://github.com/MadanMohanCh/starter-ai-agents) | Small, runnable agent patterns for learning and experimentation |
+| [Resume Matcher](https://github.com/MadanMohanCh/Resume-Matcher) | Resume and job-description matching workflows |
+| [Outage Watch](https://github.com/MadanMohanCh/Outage-Watch) | Monitoring and operational awareness tooling |
+| [MCP Review Intelligence](https://github.com/MadanMohanCh/mcp-review-intelligence) | MCP-based review analysis experiments |
 
 ## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MadanMohan0537&show_icons=true&hide_border=true&theme=transparent" alt="Madan's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadanMohan0537&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MadanMohanCh&show_icons=true&hide_border=true&theme=transparent" alt="Madan's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadanMohanCh&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=MadanMohan0537&theme=transparent&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=MadanMohanCh&theme=transparent&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -138,6 +137,6 @@ I'm especially interested in the overlap between **AI systems, project execution
 
 Explore the repositories below to see what I'm working on ↓
 
-![Profile Views](https://komarev.com/ghpvc/?username=MadanMohan0537&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=MadanMohanCh&style=flat-square)
 
 </div>
