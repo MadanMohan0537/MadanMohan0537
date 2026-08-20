@@ -137,6 +137,5 @@ I enjoy projects that combine **project management, technology, and practical pr
 
 Explore the repositories below to see what I'm working on ↓
 
-![Profile Views](https://komarev.com/ghpvc/?username=MadanMohan0537&style=flat-square)
 
 </div>
