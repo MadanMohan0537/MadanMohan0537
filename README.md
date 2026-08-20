@@ -12,9 +12,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a technologist and project-focused builder working at the intersection of **AI, product thinking, data, and execution**. I enjoy taking an ambiguous problem, breaking it into something buildable, and shipping a working solution.
+I'm a project manager with a computer science background. I enjoy taking an idea, figuring out what needs to be done, and working through the details until there is something people can actually use.
 
-My recent work explores **AI agents, LLM workflows, risk intelligence, experimentation platforms, developer tools, and automation**. This GitHub is where I build, test, learn, and document those ideas.
+Most of the projects here started with a problem I came across at work or in daily life. I use this space to build my ideas, learn from the process, and share what I create.
 
 ```text
 Problem → Scope → Build → Evaluate → Iterate → Ship
