@@ -4,8 +4,8 @@
 
 ### I build practical AI products, intelligent workflows, and tools that turn ideas into working systems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-MadanMohan0537-181717?style=for-the-badge&logo=github)](https://github.com/MadanMohan0537)
-[![Email](https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madanmohanchunduri12@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MadanMohanCh-181717?style=for-the-badge&logo=github)](https://github.com/MadanMohanCh)
+[![Email](https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 </div>
 
