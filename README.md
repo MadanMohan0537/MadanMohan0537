@@ -2,13 +2,7 @@
 
 # Madan Mohan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=560&lines=%3E+building+practical+AI+products;%3E+agents%2C+workflows%2C+%26+tools;%3E+project+manager+%C3%97+computer+science" alt="building practical AI products" />
-
-<br/>
-
-<a href="https://github.com/MadanMohan0537"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00D9FF" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/madanmohanch99"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
-<a href="mailto:madanmohanlearning@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00D9FF" alt="Email" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=560&lines=%3E+building+practical+AI+products;%3E+agents%2C+workflows%2C+%26+tools" alt="building practical AI products" />
 
 <br/><br/>
 
