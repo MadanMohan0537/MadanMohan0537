@@ -27,6 +27,6 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/MadanMohan0537/MadanMohan0537/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
+<img src="https://raw.githubusercontent.com/MadanMohan0537/MadanMohan0537/output/contribution-grid.svg?v=emerald" alt="Contribution grid" width="100%" />
 
 </div>
