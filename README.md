@@ -1,130 +1,42 @@
 <div align="center">
 
-# Hi, I'm Madan Mohan 👋
+# Madan Mohan
 
-### I build practical AI products, intelligent workflows, and tools that turn ideas into working systems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=560&lines=%3E+building+practical+AI+products;%3E+agents%2C+workflows%2C+%26+tools;%3E+project+manager+%C3%97+computer+science" alt="building practical AI products" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-MadanMohan0537-181717?style=for-the-badge&logo=github)](https://github.com/MadanMohan0537)
+<br/>
 
-</div>
+<a href="https://github.com/MadanMohan0537"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00D9FF" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/madanmohanch99"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
+<a href="mailto:madanmohanlearning@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00D9FF" alt="Email" /></a>
 
----
+<br/><br/>
 
-## 👨‍💻 About Me
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00D9FF" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00D9FF" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00D9FF" alt="JavaScript" />
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logoColor=00D9FF" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logoColor=00D9FF" alt="LangGraph" />
+<img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square&logoColor=00D9FF" alt="RAG" />
+<img src="https://img.shields.io/badge/LLMs-0D1117?style=flat-square&logoColor=00D9FF" alt="LLMs" />
+<br/>
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=00D9FF" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=00D9FF" alt="Node.js" />
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00D9FF" alt="FastAPI" />
+<img src="https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=00D9FF" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logoColor=00D9FF" alt="XGBoost" />
+<br/>
+<img src="https://img.shields.io/badge/Cloudflare-0D1117?style=flat-square&logo=cloudflare&logoColor=00D9FF" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/Azure-0D1117?style=flat-square&logo=microsoftazure&logoColor=00D9FF" alt="Azure" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=00D9FF" alt="GitHub Actions" />
 
-I'm a project manager with a computer science background. I enjoy taking an idea, figuring out what needs to be done, and working through the details until there is something people can actually use.
+<br/><br/>
 
-Most of the projects here started with a problem I came across at work or in daily life. I use this space to build my ideas, learn from the process, and share what I create.
+<img src="https://streak-stats.demolab.com?user=MadanMohan0537&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="Streak" />
 
-```text
-Problem → Scope → Build → Evaluate → Iterate → Ship
-```
+<br/><br/>
 
-## 🚀 What I'm Building
-
-- 🤖 **AI Agents & Workflows** — agentic systems, orchestration, tool use, RAG, and automation
-- 📊 **AI Product & Project Tools** — systems for experimentation, planning, evaluation, and decision support
-- 🛡️ **Risk Intelligence** — explainable fraud, marketplace, and operational risk workflows
-- 🧰 **Developer Tools** — practical utilities that remove repetitive work and improve workflows
-- 🧪 **Rapid Prototypes** — turning product ideas into testable applications quickly
-
-## ⭐ Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ [TikTok Shop Risk Intelligence](https://github.com/MadanMohan0537/TikTok-Shop-Risk-Intelligence)
-Marketplace risk intelligence project focused on surfacing suspicious patterns and turning risk signals into actionable insights.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧭 [AI Job Copilot](https://github.com/MadanMohan0537/AI-Job-Copilot)
-AI-assisted workflow for analyzing opportunities, matching resumes, and organizing the job application process.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [ForgeMind](https://github.com/MadanMohan0537/ForgeMind)
-An AI-focused project exploring intelligent workflows and practical agent-driven experiences.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 [AI Product Experimentation Platform](https://github.com/MadanMohan0537/ai-product-experimentation-platform)
-A product experimentation workflow covering the path from idea and launch through AI-assisted analysis and recommendation.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📝 [Briefly PRD AI](https://github.com/MadanMohan0537/briefly-prd-ai)
-A product requirements workflow that helps transform an early product idea into a structured PRD.
-
-</td>
-<td width="50%" valign="top">
-
-### 🍽️ [Local Dining Intelligence](https://github.com/MadanMohan0537/local-dining-intelligence)
-Automated review intelligence pipeline for extracting sentiment, patterns, and useful signals from unstructured restaurant reviews.
-
-</td>
-</tr>
-</table>
-
-## 🧰 Tech & Tools
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-**AI / ML**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Workflows-1C3C3C?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-blueviolet?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-Evaluation_%26_Orchestration-purple?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-ML-orange?style=flat-square)
-
-</div>
-
-## 🔍 Selected Work
-
-| Project | What it explores |
-|---|---|
-| [AI Project Manager Assistant](https://github.com/MadanMohan0537/ai-project-manager-assistant) | Turning project ideas into structured, risk-aware plans with AI workflows |
-| [E-Commerce Fraud Detection](https://github.com/MadanMohan0537/E-Commerce-Fraud-Detection) | Explainable transaction risk signals and fraud scoring |
-| [Starter AI Agents](https://github.com/MadanMohan0537/starter-ai-agents) | Small, runnable agent patterns for learning and experimentation |
-| [Resume Matcher](https://github.com/MadanMohan0537/Resume-Matcher) | Resume and job-description matching workflows |
-| [Outage Watch](https://github.com/MadanMohan0537/Outage-Watch) | Monitoring and operational awareness tooling |
-| [MCP Review Intelligence](https://github.com/MadanMohan0537/mcp-review-intelligence) | MCP-based review analysis experiments |
-
-## 💡 How I Work
-
-I usually start by understanding the problem, deciding what is most important, and organizing the work into clear steps. As I build, I check whether the result is useful and make changes based on what I learn.
-
-I enjoy projects that combine **project management, technology, and practical problem-solving**.
-
----
-
-<div align="center">
-
-### Build. Test. Learn. Ship.
-
-Explore the repositories below to see what I'm working on ↓
-
+<img src="https://raw.githubusercontent.com/MadanMohan0537/MadanMohan0537/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
 
 </div>
