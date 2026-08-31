@@ -1,10 +1,5 @@
 name: Contribution graph
 
-# The free hosted graph services (github-readme-activity-graph, github-readme-stats,
-# profile-summary-cards) share one GitHub API quota across every user on the internet
-# and are down more often than not. This renders the graph into this repo instead, so
-# the README points at raw.githubusercontent.com and can never rate-limit.
-
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -18,13 +13,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate contribution grid
+      - name: Generate theme-aware contribution grids
         uses: Platane/snk@v3
-        id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/contribution-grid.svg?palette=github-dark&color_snake=#3ECF8E&color_dots=#161B22,#164B32,#217A4F,#2FB872,#3ECF8E
+            dist/contribution-grid-dark.svg?palette=github-dark&color_snake=#3ECF8E&color_dots=#161B22,#164B32,#217A4F,#2FB872,#3ECF8E
+            dist/contribution-grid-light.svg?palette=github&color_snake=#167A55&color_dots=#EBEDF0,#C7E9D7,#81D2A8,#38A875,#167A55
 
       - name: Publish to the output branch
         uses: crazy-max/ghaction-github-pages@v4
