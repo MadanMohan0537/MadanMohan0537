@@ -31,3 +31,22 @@
 </picture>
 
 </div>
+
+## Selected projects
+
+I build practical AI products, workflows and tools. These repositories cover the path from product evidence to delivery and release evaluation.
+
+| Project | What to explore |
+| --- | --- |
+| [ProdMind](https://github.com/MadanMohan0537/prodmind) | A portfolio of product tools and a composed evidence-to-change workflow |
+| [AI Project Manager Assistant](https://github.com/MadanMohan0537/ai-project-manager-assistant) | Project planning, dependencies, workload and a project-aware copilot |
+| [Product Discovery Engine](https://github.com/MadanMohan0537/ai-product-discovery-engine) | Customer evidence linked to ranked product opportunities |
+| [AI Experimentation Copilot](https://github.com/MadanMohan0537/ai-experimentation-copilot) | Deterministic experiment design and analysis |
+| [Sentinel Eval Harness](https://github.com/MadanMohan0537/sentinel-eval-harness) | Versioned evaluation suites, adapters and release policies |
+| [ReleaseProof](https://github.com/MadanMohan0537/releaseproof) | Baseline/candidate release gates with inspectable case evidence |
+| [SecondChance Lab](https://github.com/MadanMohan0537/secondchance-lab) | Recovery contracts and simulated interruptions for user journeys |
+| [Resume Matcher](https://github.com/MadanMohan0537/Resume-Matcher) | Evidence-grounded resume prompts, templates and a multi-provider web app |
+
+Each project README describes its setup, implemented scope and limitations. Some repositories are working portfolio demos; others are design briefs or collections of examples.
+
+[Browse all public repositories](https://github.com/MadanMohan0537?tab=repositories)
