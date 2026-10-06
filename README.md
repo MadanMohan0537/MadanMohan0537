@@ -2,10 +2,6 @@
 
 # Madan Mohan
 
-<img src="assets/avatar-3d-animated.gif" alt="Animated 3D-style avatar with a welcoming pose" width="220" />
-
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=3ECF8E&center=true&vCenter=true&width=560&lines=%3E+building+practical+AI+products;%3E+agents%2C+workflows%2C+%26+tools" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=167A55&center=true&vCenter=true&width=560&lines=%3E+building+practical+AI+products;%3E+agents%2C+workflows%2C+%26+tools" />
