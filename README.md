@@ -44,7 +44,7 @@ I build practical AI products, workflows and tools. These repositories cover the
 | [AI Experimentation Copilot](https://github.com/MadanMohan0537/ai-experimentation-copilot) | Deterministic experiment design and analysis |
 | [Sentinel Eval Harness](https://github.com/MadanMohan0537/sentinel-eval-harness) | Versioned evaluation suites, adapters and release policies |
 | [ReleaseProof](https://github.com/MadanMohan0537/releaseproof) | Baseline/candidate release gates with inspectable case evidence |
-| [SecondChance Lab](https://github.com/MadanMohan0537/secondchance-lab) | Recovery contracts and simulated interruptions for user journeys |
+| [User Journey Recovery Testing](https://github.com/MadanMohan0537/user-journey-recovery-testing) | Recovery contracts and simulated interruptions for user journeys |
 | [Resume Matcher](https://github.com/MadanMohan0537/Resume-Matcher) | Evidence-grounded resume prompts, templates and a multi-provider web app |
 
 Each project README describes its setup, implemented scope and limitations. Some repositories are working portfolio demos; others are design briefs or collections of examples.
